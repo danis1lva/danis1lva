@@ -12,11 +12,11 @@ Para, Devs
 
 <!-- STATUS - mostra quais habilidades eu tenho mais afinidade e dominio -->
 # Minhas Qualificações
-<div style="flex-flow: wrap;justify-content: center;align-items: center;">
+
   
-<center>
+<div style="flex-flow: wrap;justify-content: center;align-items: center;">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danis1lva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danis1lva&show_icons=true&locale=en&layout=compact" alt="d3ward" /></p>
-</center>
+</div>
 
 Att, Daniel Eleoterio Silva
 
