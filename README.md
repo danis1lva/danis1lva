@@ -15,9 +15,11 @@ Para, Devs
 
   
 <div style="flex-flow: wrap;justify-content: center;align-items: center;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danis1lva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danis1lva&show_icons=true&locale=en&layout=compact" alt="d3ward" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danis1lva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><p style="width:180em"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danis1lva&show_icons=true&locale=en&layout=compact" alt="d3ward" /></p>
 </div>
 
+
+<br>
 Att, Daniel Eleoterio Silva
 
 
